@@ -1,3 +1,6 @@
+Name: Y.Ashika
+College: Mohan Babu University
+Contact :9063738916
 A full-stack Employee Attendance Management System built using React, Node.js, Express, MongoDB/PostgreSQL and Thunder Client.
 The system provides 2 user roles: Employee (mark attendance) and Manager (view & manage team attendance).
 
